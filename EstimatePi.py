@@ -1,3 +1,10 @@
+'''
+This using the logic of making a graph and plotting random points
+In a circle to find out the value
+of Pi, the higher the digit you throw into the function,
+the more accurate of an answer you will get.
+'''
+
 # Note: This is only done with numbers between 0 and 1 #
 import random
 
